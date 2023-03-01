@@ -23,6 +23,9 @@
 		<module>IJPay-PayPal</module>
 		<module>IJPay-XPay</module>
         <module>IJPay-Plugin</module>
+        <module>IJPay-Demo-JFinal</module>
+        <module>IJPay-Demo-Solon</module>
+        <module>IJPay-Demo-SpringBoot</module>
     </modules>
 
 	<licenses>
